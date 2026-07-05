@@ -1,6 +1,6 @@
 ---
 title: "PR 생성 시 자동 코드 리뷰"
-weight: 4
+weight: 5
 ---
 
 ## 한 줄 명령

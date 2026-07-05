@@ -29,6 +29,7 @@ sidebar:
 
 {{< cards >}}
   {{< card link="clone-site-in-one-line" title="사이트 디자인 한 번에 클론 코딩" subtitle="URL 하나로 구조·스타일을 분석해 코드로 재현" icon="template" >}}
+  {{< card link="clone-with-website-cloner-template" title="GitHub 템플릿으로 실제 사이트 통째로 클론하기" subtitle="실제 경험담 — Stripe.com 클론, 17분 38초" icon="duplicate" >}}
   {{< card link="vibesec-owasp-fix" title="VibeSec-Skill로 OWASP 취약점 해소" subtitle="정적 분석 → 분류 → 자동 수정을 한 번에" icon="shield-check" >}}
   {{< card link="scaffold-new-kb-site" title="Hugo+Hextra 지식베이스 한 번에 스캐폴딩" subtitle="이 사이트 자체가 이 스킬로 만들어졌습니다" icon="collection" >}}
   {{< card link="auto-pr-review-hook" title="PR 생성 시 자동 코드 리뷰" subtitle="사람이 열기도 전에 1차 리뷰가 끝나있게" icon="clipboard-check" >}}

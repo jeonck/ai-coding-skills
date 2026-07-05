@@ -1,6 +1,6 @@
 ---
 title: "Hugo+Hextra 지식베이스 한 번에 스캐폴딩"
-weight: 3
+weight: 4
 ---
 
 ## 한 줄 명령

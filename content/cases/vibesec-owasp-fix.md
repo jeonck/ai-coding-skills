@@ -1,6 +1,6 @@
 ---
 title: "VibeSec-Skill로 OWASP 취약점 해소"
-weight: 2
+weight: 3
 ---
 
 이 패턴을 반복해서 저장해두면 "VibeSec-Skill"이라는 이름의 스킬이 됩니다. 하지만 처음에는 그런 스킬 없이, 아래 문장만으로 바로 시작할 수 있습니다.

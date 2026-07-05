@@ -29,3 +29,4 @@ weight: 1
 
 - 원리: [클론·생성 스킬](../../docs/clone-and-scaffold/clone-site-design/)
 - 직접 따라 하기: [Lab 1: 사이트 클론 코딩 스킬 만들기](../../labs/lab1-clone-skill/)
+- 더 빠르고 완성도 높게: [GitHub 템플릿으로 실제 사이트 통째로 클론하기](../clone-with-website-cloner-template/)
