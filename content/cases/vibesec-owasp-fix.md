@@ -3,9 +3,13 @@ title: "VibeSec-Skill로 OWASP 취약점 해소"
 weight: 2
 ---
 
-{{< callout type="info" >}}
-**한 줄 명령**: "VibeSec-Skill로 이 PR의 OWASP 관점 취약점 점검하고 고쳐줘"
-{{< /callout >}}
+## 한 줄 명령
+
+오른쪽 위 복사 아이콘을 눌러 그대로 붙여넣으세요.
+
+```text
+VibeSec-Skill로 이 PR의 OWASP 관점 취약점 점검하고 고쳐줘
+```
 
 ## 무엇이 일어나는가
 

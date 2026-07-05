@@ -3,9 +3,13 @@ title: "저장소 생성부터 배포까지 한 번에"
 weight: 5
 ---
 
-{{< callout type="info" >}}
-**한 줄 명령**: "이 프로젝트로 GitHub 저장소 만들고 GitHub Pages까지 배포해줘"
-{{< /callout >}}
+## 한 줄 명령
+
+오른쪽 위 복사 아이콘을 눌러 그대로 붙여넣으세요.
+
+```text
+이 프로젝트로 GitHub 저장소 만들고 GitHub Pages까지 배포해줘
+```
 
 ## 무엇이 일어나는가
 
