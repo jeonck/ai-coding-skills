@@ -51,6 +51,6 @@ sidebar:
   {{< card link="clone-and-scaffold" title="② 클론·생성 스킬" subtitle="사이트 디자인 클론 코딩, 스캐폴딩, 디자인→코드 자동화 스킬" icon="template" >}}
   {{< card link="security-and-quality" title="③ 보안·품질 스킬" subtitle="VibeSec-Skill류의 OWASP 취약점 해소, 자동 코드 리뷰, 테스트 생성" icon="shield-check" >}}
   {{< card link="orchestration" title="④ 오케스트레이션·자동화" subtitle="멀티에이전트 병렬화, 훅 자동화, MCP 연동" icon="cog" >}}
-  {{< card link="deploy-and-ops" title="⑤ 배포·운영 스킬" subtitle="한 줄 배포, CI/CD 자동 구성, 배포 후 모니터링" icon="rocket-launch" >}}
+  {{< card link="deploy-and-ops" title="⑤ 배포·운영 스킬" subtitle="한 줄 배포, CI/CD 자동 구성, 배포 후 모니터링" icon="lightning-bolt" >}}
   {{< card link="practice-and-governance" title="⑥ 실전 사례·거버넌스" subtitle="스킬 축적·버전관리, 팀 도입 전략, 안전장치와 리스크 관리" icon="academic-cap" >}}
 {{< /cards >}}

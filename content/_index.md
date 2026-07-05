@@ -54,7 +54,7 @@ layout: hextra-home
     title="⑤ 배포·운영 스킬"
     subtitle="한 줄 배포, CI/CD 자동 구성, 배포 후 모니터링"
     link="docs/deploy-and-ops"
-    icon="rocket-launch"
+    icon="lightning-bolt"
   >}}
   {{< hextra/feature-card
     title="⑥ 실전 사례·거버넌스"
