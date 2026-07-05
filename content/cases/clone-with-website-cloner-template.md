@@ -7,10 +7,10 @@ weight: 2
 
 ## 한 줄 명령
 
-오른쪽 위 복사 아이콘을 눌러 그대로 붙여넣으세요. `ai-website-cloner-template`은 본인이 쓰는 클로닝 템플릿 저장소 이름으로, `stripe.com`은 원하는 대상 사이트로 바꾸면 됩니다. 별도의 스킬이 설치되어 있지 않아도 이 문장만으로 바로 동작합니다.
+오른쪽 위 복사 아이콘을 눌러 그대로 붙여넣으세요. `{특정사이트: stripe.com}`의 `stripe.com` 부분만 원하는 대상 사이트로 바꾸면 됩니다. 별도의 스킬이 설치되어 있지 않아도 이 문장 그대로 동작합니다.
 
 ```text
-깃헙의 ai-website-cloner-template을 활용해서 stripe.com 사이트를 clone 해줘
+깃헙의 ai-website-cloner-template 을 활용해서 {특정사이트: stripe.com} 사이트를 clone 해줘
 ```
 
 ## 결과 예시
