@@ -21,8 +21,9 @@ layout: hextra-home
 {{< /hextra/hero-subtitle >}}
 </div>
 
-<div class="hx:mb-6">
+<div class="hx:mb-6 hx:flex hx:gap-3">
 {{< hextra/hero-button text="로드맵 시작하기" link="docs" >}}
+{{< hextra/hero-button text="실전 사례 바로 보기" link="cases" >}}
 </div>
 
 {{< hextra/feature-grid >}}
@@ -61,5 +62,11 @@ layout: hextra-home
     subtitle="스킬 축적·버전관리, 팀 도입 전략, 안전장치와 리스크 관리"
     link="docs/practice-and-governance"
     icon="academic-cap"
+  >}}
+  {{< hextra/feature-card
+    title="⚡ 실전 사례 (즉시 사용)"
+    subtitle="원리 설명 없이 복사해서 바로 쓰는 한 줄 명령 치트시트"
+    link="cases"
+    icon="collection"
   >}}
 {{< /hextra/feature-grid >}}

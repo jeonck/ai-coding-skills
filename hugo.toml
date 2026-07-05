@@ -23,40 +23,53 @@ enableRobotsTXT = true
 enableInlineShortcodes = true
 
 [[menu.main]]
+  name = "학습 콘텐츠"
+  identifier = "learn-group"
+  weight = 1
+
+[[menu.main]]
   name = "생산성 로드맵"
   pageRef = "/docs"
+  parent = "learn-group"
   weight = 1
 
 [[menu.main]]
   name = "실습"
   pageRef = "/labs"
+  parent = "learn-group"
   weight = 2
 
 [[menu.main]]
   name = "도구"
   pageRef = "/tools"
+  parent = "learn-group"
   weight = 3
+
+[[menu.main]]
+  name = "실전 사례"
+  pageRef = "/cases"
+  weight = 2
 
 [[menu.main]]
   name = "블로그"
   pageRef = "/blog"
-  weight = 4
+  weight = 3
 
 [[menu.main]]
   name = "용어집"
   pageRef = "/glossary"
-  weight = 5
+  weight = 4
 
 [[menu.main]]
   identifier = "github"
-  weight = 6
+  weight = 5
   url = "https://github.com/jeonck/ai-coding-skills"
   [menu.main.params]
     icon = "github"
 
 [[menu.main]]
   name = "검색"
-  weight = 7
+  weight = 6
   [menu.main.params]
     type = "search"
 
